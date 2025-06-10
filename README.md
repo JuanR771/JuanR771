@@ -1,6 +1,8 @@
 
+<p align="center">
+  <img src="assets/header.png" alt="Banner" width="100%" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Juan Rozo</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=338aff&center=true&vCenter=true&width=435&lines=Systems+Engineering+Student;Full-stack+Dev+%7C+Mobile+%7C+Web;Loves+building+useful+apps+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
