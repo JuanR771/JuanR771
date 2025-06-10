@@ -13,7 +13,7 @@
 🛠️ I've worked on academic projects that combine **mobile**, **web**, and **backend** development, using tools like **Kotlin**, **Angular**, and **Spring Boot**.
 
 🚀 Some cool stuff I’ve built:
-- 📚 **EduKit** – A second-hand book marketplace app.
+- 📚 **TuKit** – A second-hand book marketplace app.
 - ❤️ **JaveMatch** – A matchmaking platform for students.
 - 💵 **PriceShield** – A prototype to reduce food price fraud in Colombia.
 
